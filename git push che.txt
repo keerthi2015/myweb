@@ -1,0 +1,2 @@
+hi
+this is git push and pull checking note
